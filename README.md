@@ -59,7 +59,8 @@ The Power BI dashboard provides interactive visualizations to explore the datase
 **Table**: Provides detailed information about each title, including release year, country, and listed genres.
 
 
-<img width="710" alt="image" src="https://github.com/user-attachments/assets/60d393cf-7c2a-4852-93b4-efdd804e9eae">
+![image](https://github.com/user-attachments/assets/7821254f-6c75-457d-bcda-1d93dc48090a)
+
 
 # Analyzing the Netflix Title Report
 
